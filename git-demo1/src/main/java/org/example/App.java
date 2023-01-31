@@ -9,5 +9,6 @@ public class App {
         System.out.println("Hello World! hot-fix");
         System.out.println("Hello World! hot-fix test");
         System.out.println("Hello World! master test");
+        System.out.println("push to remote");
     }
 }
