@@ -11,5 +11,6 @@ public class App {
         System.out.println("Hello World! master test");
         System.out.println("push to remote");
         System.out.println("pull from remote");
+        System.out.println("pull from remote2");
     }
 }
